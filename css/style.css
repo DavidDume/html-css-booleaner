@@ -8,3 +8,22 @@ header {
 header img {
     height: 50px;
 }
+
+#titolo h1 {
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+#titolo p {
+    color: gray;
+    margin: 0;
+}
+
+#autore {
+    text-decoration: none;
+    color: #2596be;
+}
+
+#container_img p{
+    font-size: 12px;
+}
